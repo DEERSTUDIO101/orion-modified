@@ -21,7 +21,7 @@ local OrionLib = {
     }
   },
   SelectedTheme = "Default",
-  Folder = C:\Users\night\Desktop\workspace\orion-modified,
+  Folder = nil,
   SaveCfg = true
 }
 
